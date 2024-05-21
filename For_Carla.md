@@ -36,4 +36,4 @@ E finalmente, nossa equipe concluiu o desenvolvimento dos objetos de aprendizage
 #### (Fala 8)
 Acompanhe nossas redes sociais e fique por dentro de tudo! Até a próxima! #Capacitação #Educação #UFMA
 
-**AS INSTRUÇÔES DE VIDEO CASO NESCESSARIO ESTÂO [AQUI]()**
+**AS INSTRUÇÔES DE VIDEO CASO NESCESSARIO ESTÂO [AQUI](https://github.com/AntonioN-pro/Cientista-de-alcantara/blob/main/README.md)**
